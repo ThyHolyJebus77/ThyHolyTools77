@@ -1,5 +1,4 @@
-**ThyHolyTools77**
-Welcome to ThyHolyTools77, a collection of handy utilities for Windows 10. This repository houses a variety of small programs designed to simplify everyday tasks and streamline workflows. While primarily created for Windows 10, they might function on other systems with some adjustments.
+**ThyHolyTools77** is a collection of small utilities I use for Windows 10.
 
 **Tools**
 *   **Resolution Changer**
